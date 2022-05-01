@@ -9,4 +9,5 @@ console.log(name)
 console.log(age)
 
 const numbers = [1,2,3]
-[num1, num2] = numbers
+[num1, num2] = numbers;
+console.log(num1, num2) // 1 2
